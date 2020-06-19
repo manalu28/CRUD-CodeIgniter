@@ -1,5 +1,5 @@
 # CRUD-CodeIgniter
-CRUD is Create Read Update Delete.
+CRUD is a Create, Read, Update and Delete.
 
 Framework :
 I use PHP Framework CodeIgniter 3 and Bootstrap 4 HTML, CSS, and JS library.
